@@ -70,9 +70,9 @@ resource "aws_security_group" "webSg" {
   }
 }
 
-resource "aws_s3_bucket" "example" {
-  bucket = "abhisheksterraform2023project"
-}
+#resource "aws_s3_bucket" "example" {
+#  bucket = "terraform2023project"
+#}
 
 
 resource "aws_instance" "webserver1" {
