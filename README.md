@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=Koabqyopqns&list=PLdpzxOOAlwvI0O4PeKVV1-yJoX2AqIWuf&index=9
+
 from command prompt/VSCode (aws cli and terraform in same path - downloads)
 
 Install AWS CLI
